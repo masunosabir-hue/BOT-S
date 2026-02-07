@@ -284,30 +284,6 @@ let handler = async (m, { conn }) => {
 ╰───────────────────────╯
 💬 *Administra, protege y personaliza tu grupo con estilo.*
 
-╭─━━━🌸 𝐌𝐄𝐍𝐔 𝐀𝐍𝐈𝐌𝐄 🌸
-│✨ Reacciona, rolea y expresa emociones con estilo ✨
-│
-│🎭 𝗘𝗠𝗢𝗖𝗜𝗢𝗡𝗘𝗦 𝗬 𝗘𝗦𝗧𝗔𝗗𝗢𝗦
-│• 😡 #angry | #enojado <@mención>
-│• ☺️ #blush | #sonrojarse <@mención>
-│• 😭 #cry | #llorar <@mención>
-│• 😅 #laugh | #reirse <@mención>
-│• 😔 #sad | #triste <@mención>
-│• 😳 #cringe | #avergonzarse <@mención>
-│• 🤔 #think | #pensar <@mención>
-│• 😌 #bored | #aburrido <@mención>
-│• 😍 #love | #amor | #enamorado <@mención>
-│
-│💞 𝗔𝗙𝗘𝗖𝗧𝗢 𝗬 𝗖𝗔𝗥𝗜𝗡̃𝗢
-│• 😘 #kiss | #muak <@mención>
-│• 💋 #kisscheek | #beso <@mención>
-│• 🫂 #hug | #abrazar <@mención>
-│• ✋ #highfive | #5 <@mención>
-│• 🤝 #handhold | #mano <@mención>
-│• 🔥 #pat | #palmadita <@mención>
-│• 😉 #wink | #guiñar <@mención>
-│• 🙂‍↔️ #cuddle | #acurrucarse <@mención>
-│
 │😏 𝗔𝗖𝗖𝗜𝗢𝗡𝗘𝗦 𝗗𝗜𝗩𝗘𝗥𝗧𝗜𝗗𝗔𝗦
 │• 🫦 #bite | #morder <@mención>
 │• 🤤 #lick | #lamer <@mención>
