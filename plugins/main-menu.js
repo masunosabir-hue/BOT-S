@@ -310,7 +310,7 @@ let handler = async (m, { conn }) => {
 
   } catch (e) {
     console.error(e)
-    m.reply('Ocurrió un error al generar el menú.')
+    m.reply('YA DAÑASTE EL BOT')
   }
 }
 
