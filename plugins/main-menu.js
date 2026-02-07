@@ -284,44 +284,6 @@ let handler = async (m, { conn }) => {
 ╰───────────────────────╯
 💬 *Administra, protege y personaliza tu grupo con estilo.*
 
-│😏 𝗔𝗖𝗖𝗜𝗢𝗡𝗘𝗦 𝗗𝗜𝗩𝗘𝗥𝗧𝗜𝗗𝗔𝗦
-│• 🫦 #bite | #morder <@mención>
-│• 🤤 #lick | #lamer <@mención>
-│• 🍽️ #eat | #comer <@mención>
-│• ☕ #coffee | #café <@mención>
-│• 🪩 #dance | #bailar <@mención>
-│• 🧼 #bath | #bañarse <@mención>
-│• 🚶 #walk | #caminar <@mención>
-│• 🏃 #run | #correr <@mención>
-│• 🚬 #smoke | #fumar <@mención>
-│• 😮‍💨 #spit | #escupir <@mención>
-│
-│⚔️ 𝗔𝗖𝗖𝗜𝗢𝗡𝗘𝗦 𝗘𝗡𝗘𝗥𝗚𝗜𝗖𝗔𝗦
-│• 👊 #punch | #golpear <@mención>
-│• 🥊 #slap | #bofetada <@mención>
-│• 😏 #facepalm | #palmada <@mención>
-│• 🥷 #kill | #matar <@mención>
-│• 👣 #step | #pisar <@mención>
-│• ⛏️ #poke | #picar <@mención>
-│• 😌 #bully | #bullying <@mención>
-│
-│💫 𝗥𝗢𝗟𝗘𝗣𝗟𝗔𝗬 𝗬 𝗦𝗧𝗬𝗟𝗘
-│• 🥴 #seduce | #seducir <@mención>
-│• 🤐 #shy | #tímido <@mención>
-│• 😫 #dramatic | #drama <@mención>
-│• 🍻 #drunk | #borracho <@mención>
-│• 🗣️ #smug | #presumir <@mención>
-│• 😄 #happy | #feliz <@mención>
-│• 😚 #pout | #pucheros <@mención>
-│• 🤰 #preg | #embarazar <@mención>
-│
-│🌸 𝗖𝗢𝗠𝗣𝗟𝗘𝗠𝗘𝗡𝗧𝗢𝗦
-│• 🌸 #waifu
-│• 🤟 #ppcouple | #ppcp
-│
-╰───────────────────────╯
-👑 © Powered By *OmarGranda*`
-
     await conn.sendMessage(m.chat, {
       video: { url: 'https://qu.ax/AjjHr.mp4' },
       caption: menu,
