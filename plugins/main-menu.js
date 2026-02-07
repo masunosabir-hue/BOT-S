@@ -39,7 +39,6 @@ SABIR OFC BOT 🔥🦆🦆
 │ ⏳ Uptime: *${uptime}*
 ╰───────────────────────╯
 
-╭─╼「 💾 ESTADO DEL SISTEMA 」
 │ 💻 RAM Total: *${total} MB*
 │ 📈 RAM En uso: *${used} MB*
 │ 📉 RAM Libre: *${free} MB*
