@@ -30,7 +30,8 @@ let handler = async (m, { conn }) => {
     let hora = moment.tz('America/Lima').format('HH:mm:ss')
     let dia = moment.tz('America/Lima').format('dddd')
     let menu = `
-SABIR OFC BOT 🔥🦆🦆
+    
+'SABIR OFC BOT 🔥🦆🦆
 │ 👤 Usuario: *@${mentionedJid.split('@')[0]}*
 │ 💼 Comandos disponibles: *${totalCommands}*
 │ ⚙️ Versión: *${vs}*
